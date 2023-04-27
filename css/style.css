@@ -1,0 +1,12 @@
+.tribu-item {
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.camper-item {
+    list-style: square;
+    background-color: lightgrey;
+    padding: 10px;
+    margin-bottom: 5px;
+}
